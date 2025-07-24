@@ -40,7 +40,6 @@ st.title('Movie Recommender System')
 
 selected_movie_name = st.selectbox(
     "Type or select a movie from the dropdown",
-  
 movies['title'].values)
 
 
